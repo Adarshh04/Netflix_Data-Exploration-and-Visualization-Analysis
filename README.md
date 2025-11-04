@@ -1,4 +1,4 @@
-<hr> Netflix_Data-Exploration-and-Visualization-Analysis </hr>
+<hr> Netflix_Data-Exploration-and-Visualization-Analysis 
 
 # 📘 Project Overview
 

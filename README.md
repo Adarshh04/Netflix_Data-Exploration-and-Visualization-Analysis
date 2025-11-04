@@ -1,6 +1,6 @@
-# Netflix_Data-Exploration-and-Visualization-Analysis
+Netflix_Data-Exploration-and-Visualization-Analysis
 
-📘 Project Overview
+# 📘 Project Overview
 
 This project analyzes the Netflix dataset to explore patterns and trends in its global catalog of movies and TV shows. Through exploratory data analysis (EDA) and visualizations, it reveals insights about content types, genres, ratings, countries, and release years to understand Netflix’s content strategy and audience focus.
 
@@ -46,9 +46,9 @@ Dramas, Comedies, and Documentaries are top genres.
 
 Ratings like TV-MA and TV-14 are most common.
 
-🧠 # Conclusion
+# 🧠 Conclusion
 
 The project demonstrates how data exploration and visualization help uncover Netflix’s global content trends, guide audience segmentation, and support data-driven decision-making for content acquisition and strategy.
 
 # Colab Notebook
-The full analysis is available on Google Colab.[View Analysis Notebook](https://colab.research.google.com/github/yourusername/netflix-analysis/blob/main/netflix_eda.ipynb)
+The full analysis is available on Google Colab.[View Analysis Notebook](https://colab.research.google.com/drive/12gttTeT3BHu3WKKJVA68HdFE38ygs3px#scrollTo=aDQWvxC_0fUd)

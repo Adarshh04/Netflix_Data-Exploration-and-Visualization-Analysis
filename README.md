@@ -49,3 +49,6 @@ Ratings like TV-MA and TV-14 are most common.
 🧠 Conclusion
 
 The project demonstrates how data exploration and visualization help uncover Netflix’s global content trends, guide audience segmentation, and support data-driven decision-making for content acquisition and strategy.
+
+Colab Notebook
+The full analysis is available on Google Colab.[View Analysis Notebook](https://colab.research.google.com/github/yourusername/netflix-analysis/blob/main/netflix_eda.ipynb)
